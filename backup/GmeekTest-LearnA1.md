@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://TravelerLq.github.io/travel.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://TravelerLq.github.io/travel.github.io</link></image><lastBuildDate>Tue, 19 Aug 2025 07:37:57 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>GmeekTest-LearnA1</title><link>https://TravelerLq.github.io/travel.github.io/post/GmeekTest-LearnA1.html</link><description>A review of every resource I used to learn German from A1 to C2.
+A review of every resource I used to learn German from A1 to C2.
 [Resource](https://www.reddit.com/r/German/?f=flair_name%3A%22Resource%22)
 I started learning German in 2019, passed a B2 exam in 2020 and passed the C2 exam in 2024. I'm off work with an injury so I had the time to write a brief overview of everything I used to get there (disclaimer: I've been living in Germany since 2020).
 
@@ -81,4 +80,4 @@ In lockdown I went through the Känguru Chroniken until I understood everything 
 Endstation C2 + Mit Erfolg zum Goethe C2 3/5
 Endstation C2 is used by the VHS for the C2 Prüfungsvorbereitungskurs. Each chapter gets a bit more difficult. It’s a bit easier than the exam or ‘Mit Erfolg’. A few of my classmates got a bit blindsided by the difficulty of the exam (they all passed though :D ). Both contain strategy tips for the exam.
 
-I hope someone finds this useful. It might look overwhelming but once you have a solid study routine going you will tear through resources over a few years. I used mostly pomodoro and would give 25 minutes to each resource to keep things fresh.。</description><guid isPermaLink="true">https://TravelerLq.github.io/travel.github.io/post/GmeekTest-LearnA1.html</guid><pubDate>Thu, 31 Jul 2025 11:47:10 +0000</pubDate></item></channel></rss>
+I hope someone finds this useful. It might look overwhelming but once you have a solid study routine going you will tear through resources over a few years. I used mostly pomodoro and would give 25 minutes to each resource to keep things fresh.
